@@ -13,8 +13,6 @@ I am **Aravind C**. I am an **Fullstack Developer**. **Skilled in React JS, Node
 
 ## CSS Preprocessors
 ![SASS](https://img.shields.io/badge/-sass%20-%23E44D27?style=flat-square&logo=sass&color=white)
-![SCSS](https://img.shields.io/badge/-scss%20-%23E44D27?style=flat-square&logo=sass&color=white)
-
 
 ## CSS Framework
 
