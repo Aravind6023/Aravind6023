@@ -13,7 +13,7 @@ I am **Aravind C**. I am an **Fullstack Developer**. **Skilled in React JS, Node
 
 # CSS Framework
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%20-%23E44D27?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-%23E44D27?style=flat-square&logo=bootstrap&logoColor=blue)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 # JS Library
