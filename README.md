@@ -23,8 +23,8 @@
 ![jQuery](https://img.shields.io/badge/-jQuery%20-%23E44D27?style=flat-square&logo=jquery&color=white&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
-## Version control system
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-
-## Code editor
+## Web Development Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![NPM](https://img.shields.io/badge/-npm-%23F05032?style=flat-square&logo=npm&logoColor=%23ffffff)
+
