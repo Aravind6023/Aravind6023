@@ -24,7 +24,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ## Database
-![MYSQL](https://img.shields.io/badge/-mysql-%23F05032?style=flat-square&logo=mysql&logoColor=black&labelColor=blue&color=blue)
+![MYSQL](https://img.shields.io/badge/-Mysql-%23F05032?style=flat-square&logo=mysql&logoColor=black&labelColor=blue&color=blue)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-%23F05032?style=flat-square&logo=mongodb&logoColor=black&labelColor=white&color=black)
 
 
