@@ -28,8 +28,10 @@
 
 ## Database
 ![MYSQL](https://img.shields.io/badge/-Mysql-%23F05032?style=flat-square&logo=mysql&logoColor=black&labelColor=blue&color=blue)
-![MongoDb](https://img.shields.io/badge/-MongoDb-%23F05032?style=flat-square&logo=mongodb&logoColor=black&labelColor=white&color=black)
+![MongoDb](https://img.shields.io/badge/-MongoDb-%23F05032?style=flat-square&logo=mongodb&logoColor=white&color=black)
 
+## Backend Framework
+![Express](https://img.shields.io/badge/-Express-%23F05032?style=flat-square&logo=express&color=white)
 
 ## Web Development Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
