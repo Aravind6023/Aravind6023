@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 <br/>
-![NodeJS](https://img.shields.io/badge/-Node-%23F05032?style=flat-square&logo=node.js&logoColor=blac&labelColor=#44883e&color=white)
+![NodeJS](https://img.shields.io/badge/-Node-%23F05032?style=flat-square&logo=node.js&logoColor=black&labelColor=#44883e&color=white)
 
 
 ## CSS Preprocessors
