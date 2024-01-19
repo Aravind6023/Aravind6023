@@ -20,7 +20,7 @@
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 ## JS Library
-![jQuery](https://img.shields.io/badge/-jQuery%20-%23E44D27?style=flat-square&logo=jquery&color=white&logoColor=blue)
+![jQuery](https://img.shields.io/badge/-jQuery%20-%23E44D27?style=flat-square&logo=jquery&color=#0769ad&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ## Web Development Tools
