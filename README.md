@@ -35,4 +35,5 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![NPM](https://img.shields.io/badge/-npm-%23F05032?style=flat-square&logo=npm&logoColor=white&labelColor=red&color=red)
+![Postman](https://img.shields.io/badge/-Postman-%23F05032?style=flat-square&logo=postman)
 
