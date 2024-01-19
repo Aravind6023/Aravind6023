@@ -17,6 +17,7 @@ I am **Aravind C**. I am an **Fullstack Developer**. **Skilled in React JS, Node
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 # JS Library
+![jQuery](https://img.shields.io/badge/-jQuery%20-%23E44D27?style=flat-square&logo=jquery&color=white&logoColor=blue).
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 # Version control system
