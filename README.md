@@ -4,34 +4,41 @@
 
 
 <br />
+## Front End Tech
 
-## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-<br/>
-![NodeJS](https://img.shields.io/badge/-Node-%23F05032?style=flat-square&logo=node.js&logoColor=black&labelColor=#44883e&color=white)
 
+## Front End Frameworks/Libraries
+
+![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Material-UI (MUI)](https://img.shields.io/badge/-Material--UI-%230081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%231a202c?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ## CSS Preprocessors
-![SASS](https://img.shields.io/badge/-sass%20-%23E44D27?style=flat-square&logo=sass&color=white)
 
-## CSS Framework
+![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-%23CC6699?style=flat-square&logo=sass&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-%23E44D27?style=flat-square&logo=bootstrap&color=blue&logoColor=white)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+## Animation Libraries
 
-## JS Library
-![jQuery](https://img.shields.io/badge/-jQuery%20-%23E44D27?style=flat-square&logo=jquery&color=#0769ad&logoColor=blue)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![GSAP](https://img.shields.io/badge/-GSAP-%23FF9900?style=flat-square&logo=greensock&logoColor=white)
 
-## Database
-![MYSQL](https://img.shields.io/badge/-Mysql-%23F05032?style=flat-square&logo=mysql&logoColor=black&labelColor=blue&color=blue)
-![MongoDb](https://img.shields.io/badge/-MongoDb-%23F05032?style=flat-square&logo=mongodb&logoColor=white&color=black)
+## Authentication
 
-## Backend Framework
-![Express](https://img.shields.io/badge/-Express-%23F05032?style=flat-square&logo=express&logoColor=black&color=white)
+![JWT](https://img.shields.io/badge/-JWT-%23000000?style=flat-square&logo=json-web-tokens)
+![Google Auth](https://img.shields.io/badge/-Google%20Auth-%234285F4?style=flat-square&logo=google&logoColor=white)
+
+## Back End Tech
+
+![NodeJS](https://img.shields.io/badge/-NodeJS-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-%23000000?style=flat-square&logo=express&logoColor=white)
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## Web Development Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
