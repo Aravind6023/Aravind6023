@@ -43,7 +43,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## Testing
-![Jest](https://img.shields.io/badge/-Jest-%2347A248?style=flat-square&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-%2347A248?style=flat-square&logo=jest&logoColor=pink)
 
 
 ## Web Development Tools
